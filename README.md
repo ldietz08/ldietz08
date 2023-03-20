@@ -27,6 +27,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Lakpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldietz08&theme=kacho_ga&show_icons=true)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldietz08&theme=kacho_ga&show_icons=true" alt="ldietz08" /></p>
