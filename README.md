@@ -3,9 +3,8 @@
 
 <h3 align="left">Software Developer based in Vancouver, BC</h3>
 
-- 👩🏽‍💻 I’m currently working on a website for a client. 
 - 🌱 I’m currently learning **Next.js and TypeScript**.
-- 👯 I'm looking to meet other developers and collaborate on projects.
+- 👯 Always looking to meet other developers and collaborate on projects!
 - 📫 Reach me at: lakpadev8@gmail.com
 
 <h2>Languages and Tools:</h2>
@@ -27,4 +26,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldietz08&theme=kacho_ga&show_icons=true" alt="ldietz08" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldietz08&theme=kacho_ga&show_icons=true" alt="ldietz08" /></p> -->
