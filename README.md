@@ -1,11 +1,12 @@
 
+<div align=center>
 ![banner](https://user-images.githubusercontent.com/99943861/226410096-8c362450-9e96-4f1b-ade7-3bc6af995eba.png)
 
-<h3 align="left">Software Developer based in Vancouver, BC</h3>
+<h3>Software Developer based in Vancouver, BC</h3>
 
-- 🌱 I’m currently learning **Next.js and TypeScript**.
-- 👯 Always looking to meet other developers and collaborate on projects!
-- 📫 Reach me at: lakpadev8@gmail.com
+🌱 I’m currently learning **Next.js and TypeScript**. <br>
+👯 Always looking to meet other developers and collaborate on projects! <br>
+📫 Reach me at: lakpadev8@gmail.com <br>
 
 <h2>Languages and Tools:</h2>
 
@@ -25,5 +26,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldietz08&theme=kacho_ga&show_icons=true" alt="ldietz08" /></p> -->
