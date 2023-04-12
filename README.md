@@ -6,7 +6,7 @@
 
 <h3>Software Developer based in Vancouver, BC</h3>
 
-🌱 I’m currently learning **Next.js and TypeScript**. <br>
+🌱 I’m currently learning **Python**. <br>
 👯 Always looking to meet other developers and collaborate on projects! <br>
 📫 Reach me at: lakpadev8@gmail.com <br>
 
