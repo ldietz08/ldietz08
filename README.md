@@ -7,7 +7,6 @@
 <h3>Software Developer based in Vancouver, BC</h3>
  
 👯 Always looking to meet other developers and collaborate on projects! <br>
-📫 Reach me at: lakpadev8@gmail.com <br>
 
 <h2>Languages and Tools:</h2>
 
